@@ -53,8 +53,9 @@ pip install -r requirement
  ```
 >Open your browser and the site can be found running at http://127.0.0.1:8000/
 
-## Run the code at your local envn
 **To get all the article set a, GET request on link**
+>  http://127.0.0.1:8000/article/
 
+**To add a article set a, POST request on link with credentials**
 >  http://127.0.0.1:8000/article/
 
