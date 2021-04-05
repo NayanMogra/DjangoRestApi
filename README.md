@@ -1,6 +1,6 @@
-# DjangoRestApi
+# DjangoRestFramework
 
-# Django Article
+## Django Article
 Django Article is a simple DjangoRestFrame work implemantion to add article title ,article date, username and useremail.
 Follow the Steps to use DjangoRestApi
 
