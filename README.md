@@ -51,11 +51,20 @@ pip install -r requirement
 ```bash
  python manage.py runserver
  ```
->Open your browser and the site can be found running at http://127.0.0.1:8000/
+>Open your browser/postman and the site can be found running at http://127.0.0.1:8000/
 
 **To get all the article set a, GET request on link**
 >  http://127.0.0.1:8000/article/
 
 **To add a article set a, POST request on link with credentials**
 >  http://127.0.0.1:8000/article/
+
+**To see particular article set a, GET request on link with article id**
+>  http://127.0.0.1:8000/detail/<id>
+
+**To update particular article set a, PUT request on link with article id**
+>  http://127.0.0.1:8000/detail/<id>
+
+**To delete particular article set a, DELETE request on link with article id**
+>  http://127.0.0.1:8000/detail/<id>
 
