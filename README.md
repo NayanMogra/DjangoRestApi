@@ -55,7 +55,6 @@ pip install -r requirement
 
 ## Run the code at your local envn
 **To get all the article set a, GET request on link**
-```bash
-  http://127.0.0.1:8000/article/
- ```
+
+>  http://127.0.0.1:8000/article/
 
